@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Online Forum</string>
+    <string name="hint_type_message">Type a message</string>
+    <string name="send_button_text">Send</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="title_settings">settings</string>
+    <string name="user_photo" />
+</resources>

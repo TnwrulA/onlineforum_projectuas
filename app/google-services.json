@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520477738551",
+    "project_id": "onlineforum-tubesmobile",
+    "storage_bucket": "onlineforum-tubesmobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520477738551:android:42fcc1d6567e2fe601e1b2",
+        "android_client_info": {
+          "package_name": "com.uts.onlineforum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7rnG518MmQ1wsphSEkZ2_DNODUh_aVF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
